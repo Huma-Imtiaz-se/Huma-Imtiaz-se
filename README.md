@@ -13,7 +13,7 @@
 - 💻 Interested in **Web Development**, **AI/ML**, and **Cybersecurity**
 - 🌱 Currently learning **Deep Learning**
 - 📚 Coursework: Data Structures & Algorithms, Machine Learning, Software Project Management, Operating Systems, Cybersecurity, Computer Networks, Web Development
-- 💼 Actively looking for **internships** and **freelance web development projects**
+- 💼 Actively looking for **internships** and **freelance AI projects**
 
 ---
 
