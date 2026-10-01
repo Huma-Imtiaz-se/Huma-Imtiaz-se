@@ -43,7 +43,7 @@
 
 ### 📌 Featured Projects
 
-*Projects coming soon — currently building my portfolio!*
+currently building my portfolio!*
 
 ---
 
